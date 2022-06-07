@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Front-end+developer.++++++++++)](https://git.io/typing-svg)
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=davide-lombardo&layout=compact)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=davide-lombardo&theme=highcontrast&show_icons=true&count_private=true)
