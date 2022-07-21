@@ -13,8 +13,9 @@
     <ul>
         <li><strong>What I'm planning to study?</strong>
             <ul>
-                <li>Typescript :ballot_box_with_check:</li>
-                <li>NodeJS :ballot_box_with_check:</li>
+                <li>Rxjs :ballot_box_with_check:</li>
+                <li>Java :ballot_box_with_check:</li>
+                <li>Regex :ballot_box_with_check:</li>
             </ul>
         </li>
     </ul>
