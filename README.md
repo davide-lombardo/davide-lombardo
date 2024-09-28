@@ -1,34 +1,67 @@
-### Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=I'm+a+Front-end+developer.++++++++++)](https://git.io/typing-svg)
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=davide-lombardo&theme=highcontrast&show_icons=true&count_private=true)
+<h1 align="center">Hi 👋, I'm Davide</h1>
+<h3 align="center">Frontend dev passionate that love building beautiful, fast, responsive web applications</h3>
+</br></br>
 
 
-[//]: # (IMG SHIELDS FROM: https://github.com/alexandresanlim/Badges4-README.md-Profile)
-
+### Some other info about me
 
 <samp>
     <ul>
-        <li><strong>What I'm planning to study?</strong>
-            <ul>
-                <li>Rxjs :ballot_box_with_check:</li>
-                <li>Java :ballot_box_with_check:</li>
-                <li>Regex :ballot_box_with_check:</li>
-            </ul>
-        </li>
+        <ul>
+            <li>I like to code in 
+                <strong>JavaScript</strong>, 
+                <strong>TypeScript</strong>, and 
+                <strong>CSS</strong>
+            </li>
+            <li>I'm working mostly with 
+                <a href="https://angular.dev/">Angular</a>
+            </li>
+        </ul>
+    </ul>
+</samp>
+
+### What I'm planning to study?
+
+<samp>
+     <ul>
+        <ul>
+        <li>Node</li>
+        <li>Express</li>
+        <li>MongoDB</li>
+       </ul>
     </ul>
 </samp>
 
 
+##  Languages 🔧
 
-<h2><samp>🔧 LANGUAGES AND TOOLS</samp></h2>
- 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+</p>
+
+## Framework and Libraries 💻 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+   <img src="https://img.shields.io/badge/Bootstrap-c3002f.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+</p>
+
+
+### Most used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davide-lombardo&&theme=dracula&layout=compact" width="auto" />
+
+
+
+### Connect with me on Linkedin 📫
+<p align="left">
+<a href="https://www.linkedin.com/in/lombardo-davide/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile link" height="30" width="40" /></a>
+</p>
+
 
