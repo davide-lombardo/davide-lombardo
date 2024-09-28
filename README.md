@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
-<h3 align="center">Frontend dev passionate that love building beautiful, fast, responsive web applications</h3>
+<h3 align="center">Frontend dev that love building beautiful, fast and responsive web applications</h3>
 </br></br>
 
 
