@@ -1,18 +1,20 @@
 <div align="center">
-  <img src="assets/cover.jpg" alt="Cover Image" style="width:100%; height:auto;"/>
+    <img src="assets/cover.jpg" alt="Cover Image" style="width: 100%; height: auto;"/>
 </div>
 
-<table>
-    <tr>
-        <td>
-            <h1 align="center">Hi 👋, I'm Davide</h1>
-            <h3 align="center">Frontend dev that loves building beautiful, fast, and responsive web applications</h3>
-        </td>
-        <td>
-            <img src="assets/avatar.svg" alt="Coding Avatar" width="100" height="auto" />
-        </td>
-    </tr>
-</table>
+<div align="center" style="width: 100%; max-width: 800px;"> <!-- Optional: set a max width for the table -->
+    <table style="width: 100%; border-collapse: collapse;"> <!-- Ensure the table uses full width -->
+        <tr>
+            <td style="text-align: center;"> <!-- Center align the text -->
+                <h1>Hi 👋, I'm Davide</h1>
+                <h3>Frontend dev that loves building beautiful, fast, and responsive web applications</h3>
+            </td>
+            <td style="text-align: center;"> <!-- Center align the avatar -->
+                <img src="assets/avatar.svg" alt="Coding Avatar" width="100" style="height: auto;" />
+            </td>
+        </tr>
+    </table>
+</div>
 
 </br></br>
 
