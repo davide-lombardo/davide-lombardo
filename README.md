@@ -84,9 +84,5 @@
 <a href="https://www.linkedin.com/in/lombardo-davide/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile link" height="30" width="40" /></a>
 </p>
 </br>
-### Connect with me on Linkedin 📫
-<p align="left">
-<a href="https://www.linkedin.com/in/lombardo-davide/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile link" height="30" width="40" /></a>
-</p>
 
 
