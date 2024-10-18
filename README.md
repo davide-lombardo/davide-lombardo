@@ -2,7 +2,7 @@
     <img src="assets/cover.jpg" alt="Cover Image" style="width: 100%; height: auto;"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Davide</h1>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Davide</h1>
 <h3 align="center">Frontend dev that love building beautiful, fast and responsive web applications</h3>
 </br></br>
 
