@@ -73,4 +73,6 @@
 </p>
 </br>
 
+![Profile views](https://komarev.com/ghpvc/?username=davide-lombardo&label=Profile%20views&color=0e75b6&style=flat)
+
 
