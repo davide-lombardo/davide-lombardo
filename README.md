@@ -56,7 +56,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-   <img src="https://img.shields.io/badge/Bootstrap-c3002f.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-c3002f.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
 </p>
 </br>
 
