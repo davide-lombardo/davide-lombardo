@@ -37,7 +37,7 @@ An intuitive event management app designed to simplify planning and collaboratio
 
 ### Personal Portfolio
 A modern portfolio to showcase my projects, skills, and achievements.
-- **GitHub**: [View Curriculum](https://github.com/davide-lombardo/personal-portfolio)
+- **GitHub**: [View Project](https://github.com/davide-lombardo/personal-portfolio)
 - **Website**: [View Live](https://personal-portfolio-8073c.web.app/)
 
 ## 🎯 What I'm Planning to Study
