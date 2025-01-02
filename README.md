@@ -1,6 +1,6 @@
 # Davide Lombardo
 
-> 🌍 Frontend Engineer | Angular Specialist | Tech Enthusiast | Lifelong Learner
+> 🌍 Frontend Engineer | Angular Specialist | Lifelong Learner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lombardo-davide/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:davide.lombardo.92@gmail.com)
