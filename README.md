@@ -61,7 +61,7 @@ A modern portfolio to showcase my projects, skills, and achievements.
 
 
 ## 📬 Connect With Me
-- **LinkedIn**: [in/davide-lombardo](https://linkedin.com/in/davide-lombardo)
+- **LinkedIn**: [in/davide-lombardo](https://linkedin.com/in/lombardo-davide)
 - **Portfolio**: [personal-portfolio](https://personal-portfolio-8073c.web.app/)
 
 
