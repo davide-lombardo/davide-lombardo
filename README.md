@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:davide.lombardo.92@gmail.com)
 
 ## 🎯 Mission
-I’m an Angular developer passionate about building seamless, user-friendly web applications. My mission is to combine clean, efficient code with engaging design to create impactful digital experiences. Based in Tuscany, Italy, I’m always exploring new technologies and striving to grow as a developer.
+I’m an Software developer who likes to about build seamless, user-friendly web applications. My mission is to combine clean, efficient code with engaging design. Based in Italy, I’m always exploring new technologies and striving to grow as a developer.
 
 ## 🛠️ Technical Stack
 ```javascript
@@ -53,7 +53,6 @@ A modern portfolio to showcase my projects, skills, and achievements.
 ## 📌 Achievements
 
 - Successfully delivered 10+ frontend projects for diverse industries.
-- Enhanced UI/UX for client applications, increasing user engagement by up to 30%.
 
 ## 🌱 Professional Goals
 - Continuously refine my Angular and frontend expertise.
