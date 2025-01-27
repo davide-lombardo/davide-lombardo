@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:davide.lombardo.92@gmail.com)
 
 ## 🎯 Mission
-I’m an Software developer who likes to about build seamless, user-friendly web applications. My mission is to combine clean, efficient code with engaging design. Based in Italy, I’m always exploring new technologies and striving to grow as a developer.
+Create web apps that feel effortless to use—intuitive, clean, and built with care. I’m driven by curiosity, always exploring new technologies and pushing myself to build things that make life just a little easier (and a lot more enjoyable).
 
 ## 🛠️ Technical Stack
 ```javascript
