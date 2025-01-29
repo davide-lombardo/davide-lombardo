@@ -31,14 +31,10 @@ My personal blog running on Angular and Firebase
 - **Website**: [View Live](https://davidelombardo-blog.web.app/)
 
 ### EventGo
-An intuitive event management app designed to simplify planning and collaboration.
+An intuitive event management app designed to help peoplee to find cool events near them.
 - **GitHub**: [View Project](https://github.com/davide-lombardo/event-go)
 - **Website**: [View Live](https://event-go-e3bd3.web.app/)
 
-### Personal Portfolio
-A modern portfolio to showcase my projects, skills, and achievements.
-- **GitHub**: [View Project](https://github.com/davide-lombardo/personal-portfolio)
-- **Website**: [View Live](https://personal-portfolio-8073c.web.app/)
 
 ## 🎯 What I'm Planning to Study
 
