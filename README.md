@@ -33,7 +33,7 @@ My personal blog running on Angular and Firebase
 ### EventGo
 An intuitive event management app designed to help peoplee to find cool events near them.
 - **GitHub**: [View Project](https://github.com/davide-lombardo/event-go)
-- **Website**: [View Live]([https://event-go-e3bd3.web.app/](https://event-go-frontend.onrender.com/))
+- **Website**: [View Live](https://event-go-frontend.onrender.com/)
 
 
 ## 🎯 What I'm Planning to Study
