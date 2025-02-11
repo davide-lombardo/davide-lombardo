@@ -28,7 +28,7 @@ const skills = {
 ### Personal Blog
 My personal blog running on Angular and Firebase
 - **GitHub**: [View Project](https://github.com/davide-lombardo/davidelombardo-blog)
-- **Website**: [View Live](https://davidelombardo-blog.web.app/)
+- **Website**: [View Live](https://davelombardo.me)
 
 ### EventGo
 An intuitive event management app designed to help peoplee to find cool events near them.
