@@ -1,6 +1,6 @@
 # Davide Lombardo
 
-> 🌍 Frontend Engineer | Angular Specialist | Lifelong Learner
+> 🌍 Frontend Engineer | React and Angular Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lombardo-davide/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:davide.lombardo.92@gmail.com)
@@ -13,8 +13,8 @@ Create web apps that feel effortless to use—intuitive, clean, and built with c
 const skills = {
     languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'SASS', 'JSON'],
     frameworks: ['Angular', 'React', 'Bootstrap', 'Tailwind CSS'],
-    platforms: ['GitHub', 'GitLab', 'Firebase', 'Netlify'],
-    tools: ['Visual Studio Code', 'Figma', 'Postman', 'Jira', 'Notion']
+    platforms: ['GitHub', 'GitLab', 'Firebase', 'Netlify', 'Supabase', 'Jenkins'],
+    tools: ['Figma', 'Postman', 'Jira', 'Notion']
 };
 ```
 
@@ -40,20 +40,22 @@ An intuitive event management app designed to help peoplee to find cool events n
 
 - Node.js
 - Express
-- MongoDB
+- PostgreSQL
 - Docker
-- Kubernetes
+- Kafka
+- MinIO
+- Redis
 - YAML
-
 
 ## 📌 Achievements
 
 - Successfully delivered 10+ frontend projects for diverse industries.
 
 ## 🌱 Professional Goals
-- Continuously refine my Angular and frontend expertise.
-- Explore emerging technologies like AI-driven web applications.
-- Spearheaded the migration of legacy codebases to modern frameworks, improving performance and maintainability.
+- Continuously refine my frontend expertise.
+- Explore emerging technologies.
+- Get some BE and Devops skills
+- Improve performance and code architecture skills.
 
 
 ## 📬 Connect With Me
@@ -64,4 +66,4 @@ An intuitive event management app designed to help peoplee to find cool events n
 ![Profile views](https://komarev.com/ghpvc/?username=davide-lombardo&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
-*Crafting code, shaping ideas, and building a better digital world—one project at a time* 🚀
+*Shaping ideas by building a better digital world — one project at a time* 🚀
