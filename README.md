@@ -18,11 +18,6 @@ const skills = {
 };
 ```
 
-## 📊  Most used Languages 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davide-lombardo&&theme=dracula&layout=compact" width="auto" style="margin-left: 10px;" />
-</br>
-
 ## 🚀 Key Projects
 
 ### Personal Blog
